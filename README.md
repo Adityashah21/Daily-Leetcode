@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0067-add-binary) |
 | [0572-subtree-of-another-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -122,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
