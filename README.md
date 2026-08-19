@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0994-rotting-oranges) |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Tree
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -179,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0785-is-graph-bipartite) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
