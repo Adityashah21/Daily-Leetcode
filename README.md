@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0994-rotting-oranges) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## String Matching
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -163,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -206,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
