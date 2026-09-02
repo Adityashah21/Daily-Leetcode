@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0067-add-binary) |
+| [0509-fibonacci-number](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,4 +215,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
