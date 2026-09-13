@@ -242,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0183-customers-who-never-order) |
+| [0620-not-boring-movies](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
