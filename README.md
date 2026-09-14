@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0130-surrounded-regions) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0509-fibonacci-number) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0183-customers-who-never-order) |
 | [0620-not-boring-movies](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0620-not-boring-movies) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
