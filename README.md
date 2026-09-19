@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0994-rotting-oranges) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Backtracking
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0055-jump-game) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -264,5 +268,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
