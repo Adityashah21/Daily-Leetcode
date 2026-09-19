@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0067-add-binary) |
 | [0572-subtree-of-another-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0844-backspace-string-compare](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Hash Function
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Union-Find
 |  |
 | ------- |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
