@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0067-add-binary) |
 | [0572-subtree-of-another-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Function
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
