@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
