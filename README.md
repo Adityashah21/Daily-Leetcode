@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0217-contains-duplicate) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
