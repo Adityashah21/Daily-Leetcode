@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0994-rotting-oranges) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0704-binary-search) |
 | [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Lifting
 |  |
