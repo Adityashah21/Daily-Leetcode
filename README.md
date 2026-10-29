@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
