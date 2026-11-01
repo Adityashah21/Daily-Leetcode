@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0994-rotting-oranges) |
