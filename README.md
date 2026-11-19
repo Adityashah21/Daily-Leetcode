@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Adityashah21/Daily-Leetcode/tree/master/0743-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Adityashah21/Daily-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
